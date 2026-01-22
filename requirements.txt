@@ -1,0 +1,9 @@
+requests
+psutil
+matplotlib
+colorama
+cryptography
+PyNaCl
+kucoin-python
+
+10
